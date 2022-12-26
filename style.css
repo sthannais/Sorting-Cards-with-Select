@@ -1,0 +1,45 @@
+body {
+  background-color: green;
+}
+
+.card-margin {
+  width: 100px;
+  height: 120px;
+}
+.card-position {
+  position: relative;
+  left: 28px;
+  top: 28px;
+}
+.card-position2 {
+  position: relative;
+  left: 20px;
+  top: 28px;
+}
+
+.fa {
+  font-family: "";
+  font-size: 22px;
+  position: relative;
+  right: 46px;
+  bottom: 43px;
+}
+.fa2 {
+  font-family: "";
+  font-size: 22px;
+  position: relative;
+  left: 13px;
+  top: 51px;
+}
+
+.icons {
+  transform: rotate(180deg);
+}
+
+.colorIconRed {
+  color: red;
+}
+
+.colorIconBlack {
+  color: black;
+}
